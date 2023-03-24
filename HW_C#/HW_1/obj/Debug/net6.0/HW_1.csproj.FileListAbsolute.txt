@@ -1,0 +1,15 @@
+/Volumes/Data/Git/HW_C#/HW_1/bin/Debug/net6.0/HW_1
+/Volumes/Data/Git/HW_C#/HW_1/bin/Debug/net6.0/HW_1.deps.json
+/Volumes/Data/Git/HW_C#/HW_1/bin/Debug/net6.0/HW_1.runtimeconfig.json
+/Volumes/Data/Git/HW_C#/HW_1/bin/Debug/net6.0/HW_1.dll
+/Volumes/Data/Git/HW_C#/HW_1/bin/Debug/net6.0/HW_1.pdb
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/HW_1.csproj.AssemblyReference.cache
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/HW_1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/HW_1.AssemblyInfoInputs.cache
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/HW_1.AssemblyInfo.cs
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/HW_1.csproj.CoreCompileInputs.cache
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/HW_1.dll
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/refint/HW_1.dll
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/HW_1.pdb
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/HW_1.genruntimeconfig.cache
+/Volumes/Data/Git/HW_C#/HW_1/obj/Debug/net6.0/ref/HW_1.dll
